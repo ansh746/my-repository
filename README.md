@@ -1,6 +1,5 @@
 # my-repository 
-This is just for testing purpose 
-
+This is just for learning purpose(git), nothing useful here
 ### Test 1 
 pushing this change to main branch
 
